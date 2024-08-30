@@ -1,2 +1,4 @@
 # myfist
-my first repo
+my first Git repo.
+<br>
+Author - adityakr
